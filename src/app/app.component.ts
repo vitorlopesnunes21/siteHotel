@@ -9,6 +9,3 @@ export class AppComponent {
   title = 'siteHotel';
 }
 
-alert('Esse site foi feito como um trabalho avaliativo, portanto não está completo.')
-
-
