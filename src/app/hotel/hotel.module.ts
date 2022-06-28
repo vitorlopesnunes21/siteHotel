@@ -11,6 +11,7 @@ import {MatFormFieldModule} from '@angular/material/form-field';
 import {MatExpansionModule} from '@angular/material/expansion';
 import {MatIconModule} from '@angular/material/icon';
 import {MatChipsModule} from '@angular/material/chips';
+import {MatToolbarModule} from '@angular/material/toolbar';
 
 
 
@@ -29,7 +30,7 @@ import {MatChipsModule} from '@angular/material/chips';
     MatExpansionModule,
     MatIconModule,
     MatChipsModule,
-
+    MatToolbarModule
   ]
 })
 export class HotelModule { }
